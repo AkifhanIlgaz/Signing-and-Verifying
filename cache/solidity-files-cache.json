@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\AKIF\\Desktop\\SignAndVerify\\contracts\\VerifySignature.sol": {
+      "lastModificationDate": 1654595123698,
+      "contentHash": "37e8eedc1c3a6d40c4b945debfae3bb3",
+      "sourceName": "contracts/VerifySignature.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "VerifySignature"
+      ]
+    }
+  }
+}
